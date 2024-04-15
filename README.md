@@ -32,35 +32,34 @@ The following PowerBI tools were utilized:
 
 ## Data Cleaning/Data modeling:
 
-![](datacleaning.png)
+![](datatcleaning.png)
 
 ---
 
 ## Visualization:
-This Dashboard shows the main points but is not limited to the problem stated above, also denoting the sales from Jan-June.
+This Dashboard shows the main points but is not limited to the problems stated above, also denoting the sales report.
 
 Dashboard                 |         Dashboard 
 :-----------------------: | :--------------------:
-![](DB1)                  |          ![](DB2)
+![](DB1.png)              |          ![](DB2.png)
 
 
 ---
 
 ## Features
-- The slicers on product-categories and date show the interactiveness of the dashboard making changes on every chart,
-- This indicates and displays pieces of information on the particular charts referred to.
+- The slicers on months show the interactiveness of the dashboard making changes.
+- Page navigation buttons in the pages for easy navigation through the pages.
 ---
 ## Analysis:
 
-### Product Catalog:
-There are 9 product categories and 29 types of products in all the stores but the highest sold 8 are represented on the dashboard.
-Also to note that Coffee and Chocolates have the highest sales.
+### Tax :
+The supermarket generated $15.38k on tax with 6 product lines in the store (shown in the dashboard).
+Also to note that food and beverages result in more taxes than other products.
 
-### Transaction History:
-There were 149,116k orders in total from Jan-June 2023.
+### Customers History:
+There are about 1000 customers who patronize the supermarket.
+This is also on the side that Female customers pay more tax than male customers.
 
-### Store: 
-There are 3 stores currently operating and Hell's Kitchen Store has the highest sales. 
 
 ## Conclusion and Recommendations:
 Coffee and Chocolate are the most in demand at each store.
