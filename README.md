@@ -13,30 +13,37 @@ The project is to analyze and derive insights to answer crucial business questio
 
 Problem Statement
 1. Total amount generated on Tax,
-2. Gender with most paid taxes,
-3. Product categories which result in highest taxes,
-4. Which months has the highest sales/demand?
+2. Gender with most paid tax,
+3. Product categories that result in the highest taxes,
+4. Payment method that allows easy deduction of tax?
+5. General Sales analysis.
 
 
 ## Skills/Concepts demonstrated:
 
 The following PowerBI tools were utilized:
 
-- Data importation, 
-- Sorting/arrangement,
+- Data conversion,
+- Data importation,
+- Data cleaning using PowerQuery, 
+- Data modeling/Sorting/arrangement,
 - Dashboard Design,
-- Slicers
+- Slicers and Page navigation buttons.
 
 ## Data Cleaning/Data modeling:
 
-![](Datacleaning.png)
+![](datacleaning.png)
 
 ---
 
 ## Visualization:
 This Dashboard shows the main points but is not limited to the problem stated above, also denoting the sales from Jan-June.
 
-![](Dashboard2.png)
+Dashboard                 |         Dashboard 
+:-----------------------: | :--------------------:
+![](DB1)                  |          ![](DB2)
+
+
 ---
 
 ## Features
