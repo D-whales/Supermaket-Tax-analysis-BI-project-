@@ -62,9 +62,5 @@ This is also on the side that Female customers pay more tax than male customers.
 
 
 ## Conclusion and Recommendations:
-Coffee and Chocolate are the most in demand at each store.
-Hell's Kitchen has the highest sales and generates more revenue but just a slight difference from other stores.
-
-#Recommendation: 
-The coffee and chocolate categories should be restocked as soon as possible based on weekly sales so the store won't run out of the products,
-All  should be paid more attention to for redistribution
+After a thorough analysis of Tax generation in the Supermarket, we have concluded that females are prone to more taxation based on the product categories they purchase which are food items and home-use products which attract more tax than others in the product groups.
+Sales analysis report shows that most sales are from registered members and as well as cash is the most common mode of payment among customers.
