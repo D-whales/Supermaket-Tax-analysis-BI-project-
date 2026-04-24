@@ -1,4 +1,4 @@
-# Supermaket Tax Analysis 
+# Supermaket Tax Analysis Design
 
 --- 
 ## INTRODUCTION 
